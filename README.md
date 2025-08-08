@@ -21,19 +21,6 @@ We’re passionate about crafting **smart workflows**, **data-driven marketing**
   Logo design, brand identity, and compelling digital content.
 
 
-<br>
-
-## 🛠 Our Tech Stack
-
-| Category              | Tools / Platforms |
-|-----------------------|-------------------|
-| **Automation**        | n8n, Zapier       |
-| **CRM & Marketing**   | Brevo, Freshworks |
-| **Development**       | JavaScript, Node.js |
-| **Design**            | Canva, Adobe Suite |
-| **Project Management**| Trello, Asana     |
-
-
 
 
 
