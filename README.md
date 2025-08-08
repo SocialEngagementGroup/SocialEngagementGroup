@@ -30,3 +30,5 @@ We’re passionate about crafting **smart workflows**, **data-driven marketing**
 
 
 <br>
+
+![](./assets/bottom_header.svg)
