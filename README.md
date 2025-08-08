@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🌐 Social Engagement Group
 
-<!--
-**SocialEngagementGroup/SocialEngagementGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Social Engagement Group** — a dynamic agency blending **IT Staffing**, **Digital Marketing**, and **Automation Solutions** to help businesses grow, engage, and innovate.  
 
-Here are some ideas to get you started:
+We’re passionate about crafting **smart workflows**, **data-driven marketing**, and **custom software solutions** that make a real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 What We Do
+
+- **💼 IT Staffing & Consulting**  
+  Connecting top tech talent with leading companies across the US.
+
+- **📢 Digital Marketing Solutions**  
+  Social media strategy, content creation, and performance marketing.
+
+- **🤖 Automation & AI Workflows**  
+  Workflow automation with **n8n**, CRM integrations, and process optimization.
+
+- **🎨 Creative & Branding**  
+  Logo design, brand identity, and compelling digital content.
+
+
+<br>
+
+## 🛠 Our Tech Stack
+
+| Category              | Tools / Platforms |
+|-----------------------|-------------------|
+| **Automation**        | n8n, Zapier       |
+| **CRM & Marketing**   | Brevo, Freshworks |
+| **Development**       | JavaScript, Node.js |
+| **Design**            | Canva, Adobe Suite |
+| **Project Management**| Trello, Asana     |
+
+
+
+
+
+<br>
+
+💡 *We believe in combining creativity, technology, and strategy to deliver measurable results.*
+
+
+<br>
